@@ -8,4 +8,3 @@
 - 📫 How to reach me: amandippadda@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 3rd Dan Black Belt in Taekwondo
--->

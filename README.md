@@ -1,1 +1,3 @@
-![Banner GIF (72 × 26 in) (1)](https://github.com/BinaryQuBit/BinaryQuBit/blob/main/banner.gif)
+<p align = "center">
+  <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/banner.gif" alt = "Banner">
+</p>

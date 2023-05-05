@@ -1,1 +1,1 @@
-![Circuit GIF](https://github.com/BinaryQuBit/BinaryQuBit/blob/main/CircuitGif.gif)
+![Banner GIF](https://github.com/BinaryQuBit/BinaryQuBit/blob/main/banner.gif)

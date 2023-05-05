@@ -1,1 +1,1 @@
-![Banner GIF](https://github.com/BinaryQuBit/BinaryQuBit/blob/main/banner.gif)
+![Banner GIF (72 × 26 in) (1)](https://github.com/BinaryQuBit/BinaryQuBit/blob/main/banner.gif)

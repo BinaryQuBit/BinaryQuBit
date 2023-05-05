@@ -1,1 +1,1 @@
-### Hi there 👋 
+![Circuit GIF](https://github.com/BinaryQuBit/BinaryQuBit/blob/main/CircuitGif.gif)

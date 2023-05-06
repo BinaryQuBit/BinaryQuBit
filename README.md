@@ -12,13 +12,14 @@ Welcome to my Special Place
 
 <h2 align = "center">More About Me</h2>
 <h3>
+
 🔭 I’m currently working on Compliance Software for Trucking Industry
 
 👯 I’m currently learning JUnit Testing
 
 💬 Ask me about Multiclassification in Machine Learning
 
-📫 You can best reach me through [email](amandippadda@outlook.com)
+📫 You can best reach me through <a href="mailto:amandippadda@outlook.com">email</a>
 
 ⚡ Fun fact: I'm 3rd Dan Black Belt in Taekwondo
 <h1></h1>

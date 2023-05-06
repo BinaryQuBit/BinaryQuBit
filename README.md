@@ -6,7 +6,7 @@
 
 Welcome to my Special Place
 
-<h2 align = "center">About me</h2>
+<h2 align = "center">About me
 <h3 align = "center">As a highly motivated 4th year Software System Engineering student at the University of Regina, I am deeply passionate about building Machine Learning models and contributing to the Open Source community. I am constantly seeking opportunities to develop my skills and gain valuable experience in the field of Software Engineering. At this point in my academic career, I am eager to secure an internship that will allow me to further refine my abilities and contribute to meaningful projects.</h3>
 <h1></h1>
 

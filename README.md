@@ -6,7 +6,7 @@
 
 Welcome to my Special Place
 
-<h2 align = "center">About me
+<h2 align = "center">About me</h2>
 <h3 align = "center">As a highly motivated 4th year Software System Engineering student at the University of Regina, I am deeply passionate about building Machine Learning models and contributing to the Open Source community. I am constantly seeking opportunities to develop my skills and gain valuable experience in the field of Software Engineering. At this point in my academic career, I am eager to secure an internship that will allow me to further refine my abilities and contribute to meaningful projects.</h3>
 <h1></h1>
 
@@ -63,10 +63,14 @@ Welcome to my Special Place
 </p>
 <h1></h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binaryqubit&show_icons=true&locale=en&layout=compact" alt="binaryqubit" /></p>
+<h2 align="center">Statistics</h2>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=binaryqubit&show_icons=true&icon_color=8C52FF&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" alt="binaryqubit" width="50%"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binaryqubit&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" align="right" alt="binaryqubit" />
+</p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binaryqubit&show_icons=true&locale=en" alt="binaryqubit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binaryqubit&" alt="binaryqubit" /></p>
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=binaryqubit&hide_border=true&background=0d1117&currStreakLabel=EFE372&fire=EFE372&ring=EFE372&stroke=white&dates=white&currStreakNum=8C52FF&sideNums=8C52FF&sideLabels=8C52FF&text_color=ffffff" alt="binaryqubit">
+</p>
 
 </h3>

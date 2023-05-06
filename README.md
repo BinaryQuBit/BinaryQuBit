@@ -2,8 +2,8 @@
   <img src = "https://github.com/BinaryQuBit/BinaryQuBit/raw/main/banner.gif" alt = "Banner">
 </p>
 
-<h2 align = "center">👋 Hi there!<h2>
-<h3 align = "center">Welcome to my Special Place<h3>
+<h2 align = "center">👋 Hi there!
+<h3 align = "center">Welcome to my Special Place
 <h1></h1>
 
 <h2 align = "center">About me</h2>

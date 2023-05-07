@@ -75,6 +75,6 @@ Welcome to my Special Place
 </p>
 
 
-<p align = "center">
-  <img src = "https://github.com/BinaryQuBit/BinaryQuBit/raw/main/banner.gif" alt = "Banner">
+<p align = "left">
+  <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/homerBye.gif" alt = "Bye">
 </p>

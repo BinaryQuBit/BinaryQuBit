@@ -74,9 +74,10 @@ Welcome to my Special Place
 <img src="http://github-readme-streak-stats.herokuapp.com?user=binaryqubit&hide_border=true&background=0d1117&currStreakLabel=EFE372&fire=EFE372&ring=EFE372&stroke=white&dates=white&currStreakNum=8C52FF&sideNums=8C52FF&sideLabels=8C52FF&text_color=ffffff" alt="binaryqubit">
 </p>
 
+<img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=none" alt="Jokes Card" align="right"/>
 
 <p align = "left">
   <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/homerBye.gif" alt = "Bye">
+  </br>
+  <span>Thank you for stopping by!</h4>
 </p>
-<p align = "right">
-Thank you for stopping by!

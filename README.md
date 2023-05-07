@@ -81,4 +81,5 @@ Welcome to my Special Place
   <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/homerBye.gif" alt = "Bye">
   </br>
   <span>Thank you for stopping by!</h4>
+  </div>
 </p>

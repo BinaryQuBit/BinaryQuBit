@@ -13,7 +13,7 @@ Welcome to my Special Place
 <h2 align = "center">More About Me</h2>
 <h3>
 
-🔭 I’m currently working on Compliance Software for Trucking Industry
+🔭 I’m currently working on Compliance <a href = "http://logicallogi.com/"> Software </a> for Trucking Industry
 
 📖 I’m currently learning JUnit Testing
 
@@ -78,6 +78,4 @@ Welcome to my Special Place
 
 <p align = "right">
   <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/homerBye.gif" alt = "Bye">
-  <br/>
-  <span>Thank you for stopping by and hope to hear from you soon!</h4>
 </p>

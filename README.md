@@ -78,3 +78,5 @@ Welcome to my Special Place
 <p align = "left">
   <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/homerBye.gif" alt = "Bye">
 </p>
+<p align = "right">
+Thank you for stopping by!

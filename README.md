@@ -15,7 +15,7 @@ Welcome to my Special Place
 
 🔭 I’m currently working on Compliance Software for Trucking Industry
 
-👯 I’m currently learning JUnit Testing
+📖 I’m currently learning JUnit Testing
 
 💬 Ask me about Multiclassification in Machine Learning
 
@@ -74,4 +74,7 @@ Welcome to my Special Place
 <img src="http://github-readme-streak-stats.herokuapp.com?user=binaryqubit&hide_border=true&background=0d1117&currStreakLabel=EFE372&fire=EFE372&ring=EFE372&stroke=white&dates=white&currStreakNum=8C52FF&sideNums=8C52FF&sideLabels=8C52FF&text_color=ffffff" alt="binaryqubit">
 </p>
 
-</h3>
+
+<p align = "center">
+  <img src = "https://github.com/BinaryQuBit/BinaryQuBit/raw/main/banner.gif" alt = "Banner">
+</p>

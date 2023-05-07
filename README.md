@@ -77,7 +77,8 @@ Welcome to my Special Place
 <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=none" alt="Jokes Card" align="right"/>
 
 <p align = "left">
+<div align = "center">
   <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/homerBye.gif" alt = "Bye">
   </br>
-  <span align = "center">Thank you for stopping by!</h4>
+  <span>Thank you for stopping by!</h4>
 </p>

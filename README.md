@@ -79,5 +79,5 @@ Welcome to my Special Place
 <p align = "right">
   <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/homerBye.gif" alt = "Bye">
   <br/>
-  <span>Thank you for stopping by!</h4>
+  <span>Thank you for stopping by and hope to hear from you soon!</h4>
 </p>

@@ -15,7 +15,7 @@ Welcome to my Special Place
 
 🔭 I’m currently working on Compliance <a href = "http://logicallogi.com/"> Software </a> for Trucking Industry
 
-📖 I’m currently learning JUnit Testing
+📖 I’m currently learning Patterns and Designs in Software
 
 💬 Ask me about Multiclassification in Machine Learning
 

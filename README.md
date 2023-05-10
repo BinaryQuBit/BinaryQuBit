@@ -19,7 +19,9 @@ Welcome to my Special Place
 
 💬 Ask me about Multiclassification in Machine Learning
 
-📫 You can best reach me through <a href="mailto:amandippadda@outlook.com">email</a>
+:star: Check out my <a href = "https://binaryqubit.github.io/virtualResume/">Resume </a>
+
+📫 You can best reach me through <a href="mailto:amandippadda@outlook.com">Email</a>
 
 ⚡ Fun fact: I'm 3rd Dan Black Belt in Taekwondo
 <h1></h1>

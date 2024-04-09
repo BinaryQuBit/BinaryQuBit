@@ -13,8 +13,6 @@ Welcome to my Special Place
 <h2 align = "center">More About Me</h2>
 <h3>
 
-🔭 I’m currently working on Compliance <a href = "http://logicallogi.com/"> Software </a> for Trucking Industry
-
 📖 I’m currently learning Patterns and Designs in Software
 
 💬 Ask me about Multiclassification in Machine Learning

@@ -126,6 +126,8 @@
   <img src="https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB">
 </p>
 
+<h2></h2>
+
 <h2>GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=BinaryQuBit&theme=onedark&no-frame=false&no-bg=false&margin-w=4)

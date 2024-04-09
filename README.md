@@ -242,20 +242,20 @@
 </div>
 
 <h3 align="center">Databases</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
-  <div style="flex-basis: 30%;">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; text-align: center;">
+  <div style="width: 30%; margin: 1%; box-sizing: border-box;">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="max-width: 100%;">
   </div>
 
-  <div style="flex-basis: 30%;">
-    <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <div style="width: 30%; margin: 1%; box-sizing: border-box;">
+    <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;">
   </div>
 
-  <div style="flex-basis: 30%;">
-    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
+  <div style="width: 30%; margin: 1%; box-sizing: border-box;">
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" style="max-width: 100%;">
   </div>
-  
 </div>
+
 
 <h3 align="center">Web Servers</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">

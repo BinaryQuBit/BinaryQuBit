@@ -20,7 +20,7 @@
         --color-link: #fef29e;
         --color-link-active: #ff4444;
 
-        height: 300px;
+        height: 400px;
         width: 100%;
         text-transform: uppercase;
         display: flex;
@@ -203,23 +203,32 @@
       <div class='container'>
         <h1>
           <a>
-            <span><em>aman padda</em></span>
-            <span><em>aman padda</em></span>
-            <span><em>aman padda</em></span>
+            <span><em>about me</em></span>
+            <span><em>about me</em></span>
+            <span><em>about me</em></span>
           </a>
         </h1>
         <section class='items'>
           <ul>
-            <li>Final semester of a Bachelor's in Software Engineering,</li>
-          </ul>
-          <ul>
-            <li>with an expected graduation date of</li>
+            <li>I'm currently working on assembling a drone</li>
           </ul>
         <ul>
-            <li>August 2024</li>
+            <li>I’m currently learning unsupervised learning in AI/ML</li>
           </ul>
-          <ul>
-            <li><span class='hi'>👋</span></li>
+            <ul>
+            <li>I’m looking to collaborate on projects related to AI/ML</li>
+          </ul>
+                      <ul>
+            <li>Ask me about the MERN stack</li>
+          </ul>
+                                <ul>
+            <li>Fun fact: 3rd Dan in Taekwondo</li>
+          </ul>
+                                          <ul>
+            <li>Hobbies: I like to read articles on microcontrollers</li>
+          </ul>
+        <ul>
+            <li>Check out my projects</li>
           </ul>
         </section>
       </div>

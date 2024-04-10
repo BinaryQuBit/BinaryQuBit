@@ -1,10 +1,6 @@
-<p align = "center">
-  <img src = "https://github.com/BinaryQuBit/BinaryQuBit/raw/main/banner.gif" alt = "Banner" width="100%" height="250">
-</p>
-
-<h2 align = "center">Hi 👋, I am Aman</h2>
-
-<h4 align = "center">Currently in my final semester of a Bachelor’s in Software Systems Engineering, with an expected graduation date of August, 2024</h4>
+<div style="width: 100%;">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 <h2>About me</h2>
 

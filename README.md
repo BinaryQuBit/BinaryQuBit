@@ -1,4 +1,6 @@
-
+<div style="width: 100%;">
+    <img src="welcome.svg" style="width: 100%">
+</div>
 
 <div style="width: 100%;">
     <img src="about.svg" style="width: 100%">

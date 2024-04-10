@@ -6,7 +6,7 @@
     <a href="#"><img src="about.svg" style="width: 100%"></a>
 </div>
 
-<h5>
+<h4>
 
 🔭 I'm currently working on assembling a drone
 
@@ -22,7 +22,7 @@
 
 🎮 Check out my projects
 
-</h5>
+</h4>
 
 <div style="width: 100%;">
     <a href="#"><img src="techStack.svg" style="width: 100%"></a>

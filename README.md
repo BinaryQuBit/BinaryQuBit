@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-    <a href="#"><img src="welcome.svg" style="width: 100%"></a>
+    <a href="#" style="cursor: default"><img src="welcome.svg" style="width: 100%"></a>
 </div>
 
 <div style="width: 100%;">

@@ -1,22 +1,33 @@
 <div style="width: 100%;">
-    <a href="#" style="cursor: default;">
-    <img src="welcome.svg" style="width: 100%; cursor: default;">
-</a>
+    <a href="#"><img src="welcome.svg" style="width: 100%"></a>
 </div>
 
 <div style="width: 100%;">
-    <img src="about.svg" style="width: 100%">
+    <a href="#"><img src="about.svg" style="width: 100%"></a>
 </div>
 
-- 🔭 I'm currently working on assembling a drone
-- 🌱 I’m currently learning unsupervised learning in AI/ML
-- 👯 I’m looking to collaborate on projects related to AI/ML
-- 💬 Ask me about the MERN stack
-- ⚡ Fun fact: 3rd Dan in Taekwondo
-- 🏃 Hobbies: I like to read articles on microcontrollers
-- 🎮 Check out my projects
+<h5>
 
-<h2>Tech Stack</h2>
+🔭 I'm currently working on assembling a drone
+
+🌱 I’m currently learning unsupervised learning in AI/ML
+
+👯 I’m looking to collaborate on projects related to AI/ML
+
+💬 Ask me about the MERN stack
+
+⚡ Fun fact: 3rd Dan in Taekwondo
+
+🏃 Hobbies: I like to read articles on microcontrollers
+
+🎮 Check out my projects
+
+</h5>
+
+<div style="width: 100%;">
+    <a href="#"><img src="techStack.svg" style="width: 100%"></a>
+</div>
+
 <h3 align = "center">Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -128,11 +139,16 @@
 
 <h2></h2>
 
-<h2>GitHub Trophies</h2>
+<div style="width: 100%;">
+    <a href="#"><img src="githubTrophies.svg" style="width: 100%"></a>
+</div>
 
 ![](https://github-profile-trophy.vercel.app/?username=BinaryQuBit&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-<h2>GitHub Statistics</h2>
+<div style="width: 100%;">
+    <a href="#"><img src="githubStatistics.svg" style="width: 100%"></a>
+</div>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=binaryqubit&show_icons=true&icon_color=8C52FF&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" alt="binaryqubit" width="50%"/> &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binaryqubit&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" align="right" alt="binaryqubit" />

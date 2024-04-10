@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-    <img src="welcome.svg" style="width: 100%">
+    <img src="welcome.svg" style="width: 100%" onclick="event.preventDefault();" />
 </div>
 
 <h2>About me</h2>

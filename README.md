@@ -1,12 +1,10 @@
 <div style="width: 100%;">
-    <img src="welcome.svg" style="width: 100%">
+    <a href="#"><img src="welcome.svg" style="width: 100%"></a>
 </div>
 
 <div style="width: 100%;">
     <img src="about.svg" style="width: 100%">
 </div>
-
-<h2>About me</h2>
 
 - 🔭 I'm currently working on assembling a drone
 - 🌱 I’m currently learning unsupervised learning in AI/ML

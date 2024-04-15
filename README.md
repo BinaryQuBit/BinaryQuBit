@@ -20,7 +20,9 @@
 
 🏃 Hobbies: I like to read articles on microcontrollers
 
-🎮 Check out my projects
+🎮 Check out my <a href="#">Projects</a>
+
+📜 Find my Resume <a href="https://amanpadda.uk.to/">here</a>
 
 </h4>
 

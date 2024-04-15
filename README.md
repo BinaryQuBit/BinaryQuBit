@@ -6,7 +6,7 @@
     <a href="#"><img src="about.svg" style="width: 100%"></a>
 </div>
 
-<h4>
+<h3>
 
 🔭 I'm currently working on assembling a drone
 
@@ -24,7 +24,7 @@
 
 📜 Find my Resume <a href="https://amanpadda.uk.to/">here</a>
 
-</h4>
+</h3>
 
 <div style="width: 100%;">
     <a href="#"><img src="techStack.svg" style="width: 100%"></a>

@@ -22,7 +22,7 @@
 
 🎮 Check out my <a href="#">Projects</a>
 
-📜 Find my Resume <a href="https://amanpadda.uk.to/">here</a>
+📜 Find my Resume <a href="https://amanpadda.uk.to/">HERE</a>
 
 </h3>
 

@@ -162,6 +162,8 @@
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=none" alt="Jokes Card" align="left"/>
 
+[![](https://visitcount.itsvg.in/api?id=binaryqubit&icon=0&color=9)](https://visitcount.itsvg.in)
+
 <p align = "right">
   <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/homerBye.gif" alt = "Bye">
 </p>

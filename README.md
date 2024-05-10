@@ -35,13 +35,19 @@
 
 <br>
 
-<div>
-  <div align="center" style="width: 30%">
+<!-- <div>
+  <div float="right" style="width: 30%">
     <a href="https://amanpadda.uk.to">
       <img src="./readmeSetup/gifs/virtualResume.gif" />
       <p>Virtual Resume</p>
     </a>
   </div>
+</div> -->
+
+<div>
+  <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 30%"/> &nbsp;
+  <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 30%"/> &nbsp;
+  <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 30%"/>
 </div>
 
 <br>

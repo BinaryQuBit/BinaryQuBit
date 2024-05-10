@@ -44,11 +44,11 @@
   </div>
 </div> -->
 
-<div>
+<p float="left">
   <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 30%"/> &nbsp;
   <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 30%"/> &nbsp;
   <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 30%"/>
-</div>
+</p>
 
 <br>
 <br>

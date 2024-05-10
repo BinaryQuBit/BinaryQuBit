@@ -44,12 +44,9 @@
   </div>
 </div> -->
 
-## pRO
-<img src="https://github.com/BinaryQuBit/BinaryQuBit/blob/main/readmeSetup/gifs/virtualResume.gif" width="100">
-<img src="https://github.com/BinaryQuBit/BinaryQuBit/blob/main/readmeSetup/gifs/virtualResume.gif" width="100">
-<img src="https://github.com/BinaryQuBit/BinaryQuBit/blob/main/readmeSetup/gifs/virtualResume.gif" width="100">
-
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzY4ZW5ldzA4bG5vNDVoMjAyN3Z1ZXc4cmR2cnVuamdtMTl4aGgxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h6bIIWWMpael3HoSjF/giphy.gif" width="100">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzY4ZW5ldzA4bG5vNDVoMjAyN3Z1ZXc4cmR2cnVuamdtMTl4aGgxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h6bIIWWMpael3HoSjF/giphy.gif" width="100">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzY4ZW5ldzA4bG5vNDVoMjAyN3Z1ZXc4cmR2cnVuamdtMTl4aGgxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h6bIIWWMpael3HoSjF/giphy.gif" width="100">
 
 <br>
 <br>

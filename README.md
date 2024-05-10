@@ -171,9 +171,9 @@
     <a href="#"><img src="readmeSetup/githubStatistics.svg" style="width: 100%"></a>
 </div>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=binaryqubit&show_icons=true&icon_color=8C52FF&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" alt="binaryqubit" width="49%"/> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binaryqubit&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" align="right" alt="binaryqubit" width="49%"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=binaryqubit&show_icons=true&icon_color=8C52FF&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" alt="binaryqubit" width="45%"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binaryqubit&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" alt="binaryqubit" width="45%"/>
 </div>
 
 <div align="center">
@@ -181,6 +181,6 @@
 </div>
 
 <div>
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=none" alt="Jokes Card" align="left" width="49%"/>
-  <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/homerBye.gif" alt = "Bye" align="right">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=none" alt="Jokes Card" width="45%"/> &nbsp;
+  <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/homerBye.gif" alt = "Bye" width="45%">
 </div>

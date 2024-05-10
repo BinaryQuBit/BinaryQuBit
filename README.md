@@ -45,9 +45,9 @@
 </div> -->
 
 <div align="center">
-  <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 30%" align="left">
-  <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 30%" align="center">
-  <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 30%" align="right">
+  <img src="./avatar.jpg" style="width: 30%" align="left">
+  <img src="./avatar.jpg" style="width: 30%" align="center">
+  <img src="./avatar.jpg" style="width: 30%" align="right">
 </div>
 
 <br>

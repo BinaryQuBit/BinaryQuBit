@@ -44,11 +44,11 @@
   </div>
 </div> -->
 
-<p>
-  <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 100"/> &nbsp;
-  <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 100"/> &nbsp;
-  <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 100"/>
-</p>
+<div align="center">
+  <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 30%"/>
+  <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 30%"/>
+  <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 30%"/>
+</div>
 
 <br>
 <br>

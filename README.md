@@ -44,9 +44,8 @@
   </div>
 </div> -->
 
-<img src="https://media1.tenor.com/m/vxFNoJHV3I4AAAAC/chiquichico.gif" width="100">
-<img src="https://media1.tenor.com/m/vxFNoJHV3I4AAAAC/chiquichico.gif" width="100">
-<img src="https://media1.tenor.com/m/vxFNoJHV3I4AAAAC/chiquichico.gif" width="100">
+<img src="https://media1.tenor.com/m/vxFNoJHV3I4AAAAC/chiquichico.gif" width="100"> <img src="https://media1.tenor.com/m/vxFNoJHV3I4AAAAC/chiquichico.gif" width="100"> <img src="https://media1.tenor.com/m/vxFNoJHV3I4AAAAC/chiquichico.gif" width="100">
+
 
 <br>
 <br>

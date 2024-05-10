@@ -39,7 +39,7 @@
   <div align="center" style="width: 30%">
     <a href="https://amanpadda.uk.to">
       <img src="./readmeSetup/gifs/virtualResume.gif" />
-      Virtual Resume
+      <p>Virtual Resume</p>
     </a>
   </div>
 </div>
@@ -187,5 +187,5 @@
 
 <div>
   <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=none" alt="Jokes Card" width="45%"/> &nbsp;
-  <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/homerBye.gif" alt = "Bye">
+  <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/homerBye.gif" alt = "Bye" align="right">
 </div>

@@ -44,7 +44,27 @@
   </div>
 </div> -->
 
-<img src="https://media1.tenor.com/m/vxFNoJHV3I4AAAAC/chiquichico.gif" width="100"> <img src="https://media1.tenor.com/m/vxFNoJHV3I4AAAAC/chiquichico.gif" width="100"> <img src="https://media1.tenor.com/m/vxFNoJHV3I4AAAAC/chiquichico.gif" width="100">
+<div style="display: flex;">
+  <figure style="width: 32%; text-align: center;">
+    <a href="https://amanpadda.uk.to">
+      <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 100%;">
+    </a>
+    <figcaption>Virtual Resume</figcaption>
+  </figure>
+  <figure style="width: 32%; text-align: center;">
+    <a href="https://amanpadda.uk.to">
+      <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 100%;">
+    </a>
+    <figcaption>Virtual Resume</figcaption>
+  </figure>
+  <figure style="width: 32%; text-align: center;">
+    <a href="https://amanpadda.uk.to">
+      <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 100%;">
+    </a>
+    <figcaption>Virtual Resume</figcaption>
+  </figure>
+</div>
+
 
 
 <br>

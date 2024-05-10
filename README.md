@@ -44,25 +44,8 @@
   </div>
 </div> -->
 
-<div style="display: flex;">
-  <figure style="width: 32%; text-align: center;">
-    <a href="https://amanpadda.uk.to">
-      <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 100%;">
-    </a>
-    <figcaption>Virtual Resume</figcaption>
-  </figure>
-  <figure style="width: 32%; text-align: center;">
-    <a href="https://amanpadda.uk.to">
-      <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 100%;">
-    </a>
-    <figcaption>Virtual Resume</figcaption>
-  </figure>
-  <figure style="width: 32%; text-align: center;">
-    <a href="https://amanpadda.uk.to">
-      <img src="./readmeSetup/gifs/virtualResume.gif" style="width: 100%;">
-    </a>
-    <figcaption>Virtual Resume</figcaption>
-  </figure>
+<div>
+  <img href="https://amanpadda.uk.to" src="./readmeSetup//gifs//virtualResume.gif" width="32%"> <img href="https://amanpadda.uk.to" src="./readmeSetup//gifs//virtualResume.gif" width="32%"> <img href="https://amanpadda.uk.to" src="./readmeSetup//gifs//virtualResume.gif" width="32%">
 </div>
 
 

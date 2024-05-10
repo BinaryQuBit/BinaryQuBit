@@ -44,10 +44,11 @@
   </div>
 </div> -->
 
-<div>
-  <img href="https://amanpadda.uk.to" src="./readmeSetup//gifs//virtualResume.gif" width="32%"> <img href="https://amanpadda.uk.to" src="./readmeSetup//gifs//virtualResume.gif" width="32%"> <img href="https://amanpadda.uk.to" src="./readmeSetup//gifs//virtualResume.gif" width="32%">
+<div align="center">
+  <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
+  <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
+  <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
 </div>
-
 
 
 <br>

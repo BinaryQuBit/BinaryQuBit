@@ -45,9 +45,9 @@
 </div> -->
 
 
-<img src="https://github.com/BinaryQuBit/BinaryQuBit/blob/main/readmeSetup/gifs/virtualResume.gif" width: 100>
-<img src="https://github.com/BinaryQuBit/BinaryQuBit/blob/main/readmeSetup/gifs/virtualResume.gif" width: 100>
-<img src="https://github.com/BinaryQuBit/BinaryQuBit/blob/main/readmeSetup/gifs/virtualResume.gif" width: 100>
+<img src="https://github.com/BinaryQuBit/BinaryQuBit/blob/main/readmeSetup/gifs/virtualResume.gif" width: "100">
+<img src="https://github.com/BinaryQuBit/BinaryQuBit/blob/main/readmeSetup/gifs/virtualResume.gif" width: "100">
+<img src="https://github.com/BinaryQuBit/BinaryQuBit/blob/main/readmeSetup/gifs/virtualResume.gif" width: "100">
 
 
 <br>

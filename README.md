@@ -35,8 +35,8 @@
 
 <br>
 
-<div align="center" style="width: 30%;">
-    <a href="https://amanpadda.uk.to"><img src="./readmeSetup/gifs/virtualResume.gif" style="width: 100%">Virtual Resume</a>
+<div align="center" style="width: 30%">
+    <a href="https://amanpadda.uk.to"><img src="./readmeSetup/gifs/virtualResume.gif">Virtual Resume</a>
 </div>
 
 <br>
@@ -171,21 +171,16 @@
     <a href="#"><img src="readmeSetup/githubStatistics.svg" style="width: 100%"></a>
 </div>
 
-<br>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=binaryqubit&show_icons=true&icon_color=8C52FF&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" alt="binaryqubit" width="49%"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binaryqubit&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" align="right" alt="binaryqubit" width="49%"/>
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=binaryqubit&show_icons=true&icon_color=8C52FF&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" alt="binaryqubit" width="50%"/> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binaryqubit&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" align="right" alt="binaryqubit" />
-</p>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=binaryqubit&hide_border=true&background=0d1117&currStreakLabel=EFE372&fire=EFE372&ring=EFE372&stroke=white&dates=white&currStreakNum=8C52FF&sideNums=8C52FF&sideLabels=8C52FF&text_color=ffffff" alt="binaryqubit">
+</div>
 
-<p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=binaryqubit&hide_border=true&background=0d1117&currStreakLabel=EFE372&fire=EFE372&ring=EFE372&stroke=white&dates=white&currStreakNum=8C52FF&sideNums=8C52FF&sideLabels=8C52FF&text_color=ffffff" alt="binaryqubit">
-</p>
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=none" alt="Jokes Card" align="left"/>
-
-[![](https://visitcount.itsvg.in/api?id=binaryqubit&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<p align = "right">
-  <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/homerBye.gif" alt = "Bye">
-</p>
+<div>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=none" alt="Jokes Card" align="left" width="49%"/>
+  <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/homerBye.gif" alt = "Bye" align="right">
+</div>

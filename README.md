@@ -50,7 +50,7 @@
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
 </div>
 <table border="0" width="100%">
- <tr align="center">
+ <tr style="text-align: center">
     <td><a href="https://amanpadda.uk.to">Virtual Resume</a></td>
     <td><a href="https://amanpadda.uk.to">Virtual Resume</a></td>
     <td><a href="https://amanpadda.uk.to">Virtual Resume</a></td>

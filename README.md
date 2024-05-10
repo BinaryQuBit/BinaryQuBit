@@ -9,7 +9,7 @@
     <a href="#"><img src="readmeSetup/about.svg" style="width: 100%"></a>
 </div>
 
-<h4>
+<h3>
 
 🔭 I'm currently working on assembling a drone
 
@@ -25,7 +25,7 @@
 
 📜 Find my Resume <a href="https://amanpadda.uk.to/"><em>here</em></a>
 
-</h4>
+</h3>
 
 <br>
 
@@ -35,8 +35,13 @@
 
 <br>
 
-<div align="center" style="width: 30%">
-    <a href="https://amanpadda.uk.to"><img src="./readmeSetup/gifs/virtualResume.gif">Virtual Resume</a>
+<div>
+  <div align="center" style="width: 30%">
+    <a href="https://amanpadda.uk.to">
+      <img src="./readmeSetup/gifs/virtualResume.gif" />
+      Virtual Resume
+    </a>
+  </div>
 </div>
 
 <br>
@@ -182,5 +187,5 @@
 
 <div>
   <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=none" alt="Jokes Card" width="45%"/> &nbsp;
-  <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/homerBye.gif" alt = "Bye" width="45%">
+  <img src = "https://github.com/BinaryQuBit/BinaryQuBit/blob/main/homerBye.gif" alt = "Bye">
 </div>

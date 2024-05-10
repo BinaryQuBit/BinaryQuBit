@@ -44,11 +44,11 @@
   </div>
 </div> -->
 
-<div align="center">
-  <img src="https://github.com/BinaryQuBit/BinaryQuBit/blob/main/readmeSetup/gifs/virtualResume.gif" style="width: 30%" align="left">
-  <img src="https://github.com/BinaryQuBit/BinaryQuBit/blob/main/readmeSetup/gifs/virtualResume.gif" style="width: 30%" align="center">
-  <img src="https://github.com/BinaryQuBit/BinaryQuBit/blob/main/readmeSetup/gifs/virtualResume.gif" style="width: 30%" align="right">
-</div>
+
+<img src="https://github.com/BinaryQuBit/BinaryQuBit/blob/main/readmeSetup/gifs/virtualResume.gif" style="width: 100">
+<img src="https://github.com/BinaryQuBit/BinaryQuBit/blob/main/readmeSetup/gifs/virtualResume.gif" style="width: 100">
+<img src="https://github.com/BinaryQuBit/BinaryQuBit/blob/main/readmeSetup/gifs/virtualResume.gif" style="width: 100">
+
 
 <br>
 <br>

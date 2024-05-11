@@ -35,28 +35,17 @@
 
 <br>
 
-<!-- <div>
-  <div float="right" style="width: 30%">
-    <a href="https://amanpadda.uk.to">
-      <img src="./readmeSetup/gifs/virtualResume.gif" />
-      <p>Virtual Resume</p>
-    </a>
-  </div>
-</div> -->
-
 <div align="center">
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
 </div>
-<div>
-  <a href="https://amanpadda.uk.to" style="margin-left:7%">Virtual Resume</a>
-  <a href="https://amanpadda.uk.to" style="margin-left:13.5%">Virtual Resume</a>
-  <a href="https://amanpadda.uk.to" style="margin-left:13.5%">Virtual Resume</a>
+
+<div align="center">
+  <a href="https://amanpadda.uk.to"><img src="./readmeSetup/projectTitles//virtualResume.svg" width="32%"></a>
+  <a href="https://amanpadda.uk.to"><img src="./readmeSetup/projectTitles//virtualResume.svg" width="32%"></a>
+  <a href="https://amanpadda.uk.to"><img src="./readmeSetup/projectTitles//virtualResume.svg" width="32%"></a>
 </div>
-
-
-
 
 <br>
 <br>

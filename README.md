@@ -36,12 +36,13 @@
 <br>
 
 <div align="center">
+  <a href="https://blindnessdetection.csproject.org"><img src="./readmeSetup//gifs/blindnessDetection.gif" width="32%"></a>
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
 </div>
 
 <div align="center">
+  <a href="https://blindnessdetection.csproject.org"><img src="./readmeSetup/projectTitles/blindnessDetection.svg" width="32%"></a>
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup/projectTitles//virtualResume.svg" width="32%"></a>
-
 </div>
 
 <br>

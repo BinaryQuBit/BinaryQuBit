@@ -49,14 +49,10 @@
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
 </div>
-<table border="0" width="100%">
- <tr style="text-align: center">
-    <td><a href="https://amanpadda.uk.to">Virtual Resume</a></td>
-    <td><a href="https://amanpadda.uk.to">Virtual Resume</a></td>
-    <td><a href="https://amanpadda.uk.to">Virtual Resume</a></td>
- </tr>
-</table>
-
+<div>
+  <a href="https://amanpadda.uk.to" style="margin-left:7%">Virtual Resume</a>
+  <a href="https://amanpadda.uk.to" style="margin-left:13.5%">Virtual Resume</a>
+  <a href="https://amanpadda.uk.to" style="margin-left:13.5%">Virtual Resume</a>
 </div>
 
 

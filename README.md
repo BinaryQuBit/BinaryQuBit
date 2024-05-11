@@ -23,7 +23,7 @@
 
 🏃 Hobbies: I like to read articles on microcontrollers
 
-📜 Find my Resume <a href="https://amanpadda.uk.to/"><em>here</em></a>
+📜 Find my <a href="https://amanpadda.uk.to/"><em>Resume</em></a>
 
 </h3>
 
@@ -37,14 +37,11 @@
 
 <div align="center">
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
-  <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
-  <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
 </div>
 
 <div align="center">
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup/projectTitles//virtualResume.svg" width="32%"></a>
-  <a href="https://amanpadda.uk.to"><img src="./readmeSetup/projectTitles//virtualResume.svg" width="32%"></a>
-  <a href="https://amanpadda.uk.to"><img src="./readmeSetup/projectTitles//virtualResume.svg" width="32%"></a>
+
 </div>
 
 <br>

@@ -72,7 +72,7 @@
 
 <h2></h2>
 
-<h3 align="center">Machine Learning Libraries</h3>
+<h3 align="center">🤖 Artificial Intelligence & Machine Learning Libraries</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
@@ -101,9 +101,11 @@
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
+  <img src="https://img.shields.io/badge/rtos%20-%234285F4.svg?style=for-the-badge&logoColor=white" alt="Keil">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vsCode">
+  <img src="https://img.shields.io/badge/Keil%20UVISION-%234285F4.svg?style=for-the-badge&logoColor=white" alt="Keil">
 </p>
 
 <h2></h2>
@@ -161,6 +163,13 @@
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
   <img src="https://img.shields.io/badge/Maya-%23069F9C.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya">
   <img src="https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB">
+</p>
+
+<h3 align="center">Hardware and Microcontroller Boards</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/STM-%23069F9C.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="STM">
+  <img src="https://img.shields.io/badge/BASYS2-%23E16737.svg?style=for-the-badge&logo=matlab&logoColor=white" alt="BASYS2">
 </p>
 
 <br>

@@ -165,6 +165,8 @@
   <img src="https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB">
 </p>
 
+<h2></h2>
+
 <h3 align="center">Hardware and Microcontroller Boards</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">

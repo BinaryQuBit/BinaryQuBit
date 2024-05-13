@@ -48,13 +48,23 @@
 </div>
 
 <br>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=i3VYq7fYbPA&t=1s"><img src="./readmeSetup//gifs/elevatorEmulator.gif" width="32%"></a>
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=i3VYq7fYbPA&t=1s"><img src="./readmeSetup/projectTitles/elevatorEmulator.svg" width="32%"></a>
+</div>
+
+<br>
 <br>
 
 <div style="width: 100%;">
     <a href="#"><img src="readmeSetup/techStack.svg" style="width: 100%"></a>
 </div>
 
-<h3 align = "center">Languages</h3>
+<h3 align = "center">👩‍💻 Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
@@ -84,7 +94,7 @@
 
 <h2></h2>
 
-<h3 align="center">Cloud Platforms</h3>
+<h3 align="center">☁ Cloud Platforms</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
@@ -96,7 +106,7 @@
 
 <h2></h2>
 
-<h3 align="center">Development Tools & Environments</h3>
+<h3 align="center">🚀 Development Tools & Environments</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
@@ -110,7 +120,7 @@
 
 <h2></h2>
 
-<h3 align="center">Web Development Frameworks & Libraries</h3>
+<h3 align="center">💻 Web Development Frameworks & Libraries</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
@@ -137,7 +147,7 @@
 
 <h2></h2>
 
-<h3 align="center">Databases</h3>
+<h3 align="center">⚡ Databases</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -146,7 +156,7 @@
 
 <h2></h2>
 
-<h3 align="center">Web Servers</h3>
+<h3 align="center">🌐 Web Servers</h3>
 <p align="center"">
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
@@ -155,7 +165,7 @@
 
 <h2></h2>
 
-<h3 align="center">3D Modeling and Animation Softwares</h3>
+<h3 align="center">💡 3D Modeling and Animation Softwares</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator">
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop">
@@ -167,7 +177,7 @@
 
 <h2></h2>
 
-<h3 align="center">Hardware and Microcontroller Boards</h3>
+<h3 align="center">⚙️ Hardware and Microcontroller Boards</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
   <img src="https://img.shields.io/badge/STM-%23069F9C.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="STM">

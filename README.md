@@ -52,12 +52,20 @@
 <div align="center">
   <a href="https://github.com/BinaryQuBit/Snack-Distributing-Robot"><img src="./readmeSetup//gifs/snackRobot.gif" width="32%"></a>
   <a href="https://www.youtube.com/watch?v=i3VYq7fYbPA&t=1s"><img src="./readmeSetup//gifs/elevatorEmulator.gif" width="32%"></a>
-  <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
+  <a href="https://www.skcda.ca/"><img src="./readmeSetup//gifs/SKCDA.gif" width="32%"></a>
 </div>
 
 <div align="center">
   <a href="https://github.com/BinaryQuBit/Snack-Distributing-Robot"><img src="./readmeSetup/projectTitles/snackRobot.svg" width="32%"></a>
   <a href="https://www.youtube.com/watch?v=i3VYq7fYbPA&t=1s"><img src="./readmeSetup/projectTitles/elevatorEmulator.svg" width="32%"></a>
+  <a href="https://www.skcda.ca/"><img src="./readmeSetup/projectTitles/SKCDA.svg" width="32%"></a>
+</div>
+
+<div align="center">
+  <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
+</div>
+
+<div align="center">
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup/projectTitles//virtualResume.svg" width="32%"></a>
 </div>
 

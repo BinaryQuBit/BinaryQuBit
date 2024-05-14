@@ -120,6 +120,7 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vsCode">
   <img src="https://img.shields.io/badge/Keil%20UVISION-%234285F4.svg?style=for-the-badge&logoColor=white" alt="Keil">
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
 </p>
 
 <h2></h2>

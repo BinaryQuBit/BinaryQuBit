@@ -35,6 +35,9 @@
 
 <br>
 
+
+
+
 <div align="center">
   <a href="https://freightshield.csproject.org"><img src="./readmeSetup//gifs/freightShield.gif" width="32%"></a>
   <a href="https://blindnessdetection.csproject.org"><img src="./readmeSetup//gifs/blindnessDetection.gif" width="32%"></a>
@@ -47,33 +50,71 @@
   <a href="https://todolist.csproject.org"><img src="./readmeSetup/projectTitles/todoList.svg" width="32%"></a>
 </div>
 
+
+
+
+
 <br>
+
+
+
+
+
+<div align="center">
+  <a href="https://www.skcda.ca/"><img src="./readmeSetup//gifs/SKCDA.gif" width="32%"></a>
+  <a href="#"><img src="./readmeSetup//gifs/lisaPortfolio.gif" width="32%"></a>
+  <a href="https://purchasemania.csproject.org/"><img src="./readmeSetup//gifs/purchaseMania.gif" width="32%"></a>
+</div>
+
+<div align="center">
+  <a href="https://www.skcda.ca/"><img src="./readmeSetup/projectTitles/SKCDA.svg" width="32%"></a>
+  <a href="#"><img src="./readmeSetup/projectTitles/lisaPortfolio.svg" width="32%"></a>
+  <a href="https://purchasemania.csproject.org/"><img src="./readmeSetup/projectTitles/purchaseMania.svg" width="32%"></a>
+</div>
+
+
+
+
+
+<br>
+
+
+
+
 
 <div align="center">
   <a href="https://github.com/BinaryQuBit/Snack-Distributing-Robot"><img src="./readmeSetup//gifs/snackRobot.gif" width="32%"></a>
   <a href="https://www.youtube.com/watch?v=i3VYq7fYbPA&t=1s"><img src="./readmeSetup//gifs/elevatorEmulator.gif" width="32%"></a>
-  <a href="https://www.skcda.ca/"><img src="./readmeSetup//gifs/SKCDA.gif" width="32%"></a>
+  <a href="https://www.figma.com/proto/JC1gzYjyrpfvc6T0iv3nbd/Untitled?node-id=82-35&starting-point-node-id=82%3A35&scaling=scale-down&t=Ixgn5QeRQnMCsHfy-1"><img src="./readmeSetup//gifs/discoverWarzone.gif" width="32%"></a>
 </div>
 
 <div align="center">
   <a href="https://github.com/BinaryQuBit/Snack-Distributing-Robot"><img src="./readmeSetup/projectTitles/snackRobot.svg" width="32%"></a>
   <a href="https://www.youtube.com/watch?v=i3VYq7fYbPA&t=1s"><img src="./readmeSetup/projectTitles/elevatorEmulator.svg" width="32%"></a>
-  <a href="https://www.skcda.ca/"><img src="./readmeSetup/projectTitles/SKCDA.svg" width="32%"></a>
+  <a href="https://www.figma.com/proto/JC1gzYjyrpfvc6T0iv3nbd/Untitled?node-id=82-35&starting-point-node-id=82%3A35&scaling=scale-down&t=Ixgn5QeRQnMCsHfy-1"><img src="./readmeSetup/projectTitles/discoverWarzone.svg" width="32%"></a>
 </div>
+
+
+
+
 
 <br>
 
+
+
+
+
 <div align="center">
-  <a href="https://purchasemania.csproject.org/"><img src="./readmeSetup//gifs/purchaseMania.gif" width="32%"></a>
-  <a href="#"><img src="./readmeSetup//gifs/lisaPortfolio.gif" width="32%"></a>
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
 </div>
 
 <div align="center">
-  <a href="https://purchasemania.csproject.org/"><img src="./readmeSetup/projectTitles/purchaseMania.svg" width="32%"></a>
-  <a href="#"><img src="./readmeSetup/projectTitles/lisaPortfolio.svg" width="32%"></a>
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup/projectTitles//virtualResume.svg" width="32%"></a>
 </div>
+
+
+
+
 
 <br>
 <br>

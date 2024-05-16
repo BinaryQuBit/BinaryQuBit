@@ -79,15 +79,12 @@
           flex-direction: column;
         }
 
-        ul {
+        .items p {
           font-size: 14px;
           line-height: 26px;
           color: #9e3ffd;
           font-weight: 700;
           font-family: "Open Sans", sans-serif;
-        }
-
-        ul li {
           display: flex;
           letter-spacing: 0.125vw;
         }
@@ -119,18 +116,10 @@
         </a>
       </h1>
       <section class='items'>
-        <ul>
-          <li>Final semester of a Bachelor's in Software Engineering,</li>
-        </ul>
-        <ul>
-          <li>with an expected graduation date of</li>
-        </ul>
-        <ul>
-          <li>August 2024</li>
-        </ul>
-        <ul>
-          <li><span class='hi'>👋</span></li>
-        </ul>
+        <p>Final semester of a Bachelor's in Software Engineering,</p>
+        <p>with an expected graduation date of</p>
+        <p>August 2024</p>
+        <p><span class='hi'>👋</span></p>
       </section>
     </div>
   </foreignObject>

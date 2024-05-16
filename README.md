@@ -61,11 +61,15 @@
   <a href="https://www.skcda.ca/"><img src="./readmeSetup/projectTitles/SKCDA.svg" width="32%"></a>
 </div>
 
+<br>
+
 <div align="center">
+  <a href="https://purchasemania.csproject.org/"><img src="./readmeSetup//gifs/purchaseMania.gif" width="32%"></a>
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
 </div>
 
 <div align="center">
+  <a href="https://purchasemania.csproject.org/"><img src="./readmeSetup/projectTitles/purchaseMania.svg" width="32%"></a>
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup/projectTitles//virtualResume.svg" width="32%"></a>
 </div>
 

@@ -273,3 +273,9 @@
   <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=none" alt="Jokes Card" width="45%"/> &nbsp;
   <img src = "./homerBye.gif" alt = "Bye" width="30%" align="right">
 </div>
+
+<div align=center>
+
+[![](https://visitcount.itsvg.in/api?id=binaryqubit&icon=0&color=6)](https://visitcount.itsvg.in)
+
+</div>

@@ -274,8 +274,5 @@
   <img src = "./homerBye.gif" alt = "Bye" width="30%" align="right">
 </div>
 
-<div align=center>
-
 [![](https://visitcount.itsvg.in/api?id=binaryqubit&icon=0&color=6)](https://visitcount.itsvg.in)
 
-</div>

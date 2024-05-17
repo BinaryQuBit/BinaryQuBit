@@ -139,6 +139,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="Power Shell">
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
+  <img src="https://img.shields.io/badge/VHDL%20-%234285F4.svg?style=for-the-badge&logoColor=white" alt="VHDL">
 </p>
 
 <h2></h2>
@@ -178,6 +179,7 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vsCode">
   <img src="https://img.shields.io/badge/Keil%20UVISION-%234285F4.svg?style=for-the-badge&logoColor=white" alt="Keil">
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Vivado%20-%234285F4.svg?style=for-the-badge&logoColor=white" alt="Vivado">
 </p>
 
 <h2></h2>
@@ -243,7 +245,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
   <img src="https://img.shields.io/badge/STM-%23069F9C.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="STM">
-  <img src="https://img.shields.io/badge/BASYS2-%23E16737.svg?style=for-the-badge&logo=matlab&logoColor=white" alt="BASYS2">
+  <img src="https://img.shields.io/badge/BASYS%20FPGA-%234285F4.svg?style=for-the-badge&logoColor=white" alt="BASYS2 FPGA">
 </p>
 
 <br>

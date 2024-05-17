@@ -105,10 +105,12 @@
 
 
 <div align="center">
+  <a href="#"><img src="./readmeSetup//gifs/suggestMeMusic.gif" width="32%"></a>
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup//gifs//virtualResume.gif" width="32%"></a>
 </div>
 
 <div align="center">
+  <a href="#"><img src="./readmeSetup/projectTitles/suggestMeMusic.svg" width="32%"></a>
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup/projectTitles//virtualResume.svg" width="32%"></a>
 </div>
 

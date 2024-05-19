@@ -42,10 +42,10 @@
       </a>
       <p align="center">
         <a href="https://github.com/BinaryQuBit/Freight-Shield">
-          <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0321b73c56c0a11e045e94a6c4d51fc62f9a1332/Badges/github.svg" width="40%">
+          <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0321b73c56c0a11e045e94a6c4d51fc62f9a1332/Badges/github.svg" width="30%">
         </a>  
         <a href="https://freightshield.csproject.org">
-          <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/6b3e3425c8cadca99903989071701f45846da052/Badges/live.svg" width="40%">
+          <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/1af0cb94e65cea3a4c8aef5238c4efd710ec50da/Badges/live.svg" width="30%">
         </a>
       </p>
     </td>

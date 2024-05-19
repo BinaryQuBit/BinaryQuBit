@@ -25,24 +25,27 @@
   📜 Find my <a href="https://amanpadda.uk.to/"><em>Resume</em></a>
 </p>
 
+<br>
+
 
 <div style="width: 100%;">
     <a href="#"><img src="readmeSetup/projects.svg" style="width: 100%"></a>
 </div>
 
+<br>
+
 <table>
   <tr>
     <td>
       <a href="https://freightshield.csproject.org"><img src="./readmeSetup/projectTitles/freightShield.svg"></a>
-      <a target="_blank" href="https://freightshield.csproject.org">
       <a href="https://freightshield.csproject.org"><img src="./readmeSetup//gifs/freightShield.gif" alt="Freight Shield"></a>
       </a>
       <p align="center">
         <a href="https://github.com/BinaryQuBit/Freight-Shield">
-          <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0321b73c56c0a11e045e94a6c4d51fc62f9a1332/Badges/github.svg" width="45%">
+          <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0321b73c56c0a11e045e94a6c4d51fc62f9a1332/Badges/github.svg" width="40%">
         </a>  
-        <a href="https://sizzlerestaurant.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/website-ec840c?&style=for-the-badge&logo=googlechrome&logoColor=ffffff" width="45%">
+        <a href="https://freightshield.csproject.org">
+          <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/637c008d316f8dc2305b326fb8cb608c126cb7b7/Badges/live.svg" width="40%">
         </a>
       </p>
     </td>

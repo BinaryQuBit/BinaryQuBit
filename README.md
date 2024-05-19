@@ -9,34 +9,89 @@
     <a href="#"><img src="readmeSetup/about.svg" style="width: 100%"></a>
 </div>
 
-<h3>
+<p>
+  🔭 I'm currently working on assembling a drone
 
-🔭 I'm currently working on assembling a drone
+  🌱 I’m currently learning unsupervised learning in AI/ML
 
-🌱 I’m currently learning unsupervised learning in AI/ML
+  👯 I’m looking to collaborate on projects related to AI/ML
 
-👯 I’m looking to collaborate on projects related to AI/ML
+  💬 Ask me about the MERN stack
 
-💬 Ask me about the MERN stack
+  ⚡ Fun fact: 3rd Dan in Taekwondo
 
-⚡ Fun fact: 3rd Dan in Taekwondo
+  🏃 Hobbies: I like to read articles on microcontrollers
 
-🏃 Hobbies: I like to read articles on microcontrollers
+  📜 Find my <a href="https://amanpadda.uk.to/"><em>Resume</em></a>
+</p>
 
-📜 Find my <a href="https://amanpadda.uk.to/"><em>Resume</em></a>
-
-</h3>
-
-<br>
 
 <div style="width: 100%;">
     <a href="#"><img src="readmeSetup/projects.svg" style="width: 100%"></a>
 </div>
 
-<br>
+<table>
+  <tr>
+    <td>
+      <a href="https://freightshield.csproject.org"><img src="./readmeSetup/projectTitles/freightShield.svg"></a>
+      <a target="_blank" href="https://freightshield.csproject.org">
+      <a href="https://freightshield.csproject.org"><img src="./readmeSetup//gifs/freightShield.gif" alt="Freight Shield"></a>
+      </a>
+      <p align="center">
+        <a href="https://github.com/BinaryQuBit/Freight-Shield">
+          <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/2df3f646d394ca8256227308902a066dbeb65fce/Badges/github.svg?token=AVUCR7FN34UIVWYYP2FAHLLGJJIO4" width="45%">
+        </a>  
+        <a href="https://sizzlerestaurant.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/website-ec840c?&style=for-the-badge&logo=googlechrome&logoColor=ffffff" width="45%">
+        </a>
+      </p>
+    </td>
+    <td valign="top">
+      <a href="https://freightshield.csproject.org"><img src="./readmeSetup/projectTitles/freightShield.svg"></a>
+      <a target="_blank" href="https://freightshield.csproject.org">
+      <a href="https://freightshield.csproject.org"><img src="./readmeSetup//gifs/freightShield.gif" alt="Freight Shield"></a>
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://freightshield.csproject.org"><img src="./readmeSetup/projectTitles/freightShield.svg"></a>
+      <a target="_blank" href="https://freightshield.csproject.org">
+      <a href="https://freightshield.csproject.org"><img src="./readmeSetup//gifs/freightShield.gif" alt="Freight Shield"></a>
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td valign="top">
+      <a href="https://freightshield.csproject.org"><img src="./readmeSetup/projectTitles/freightShield.svg"></a>
+      <a target="_blank" href="https://freightshield.csproject.org">
+      <a href="https://freightshield.csproject.org"><img src="./readmeSetup//gifs/freightShield.gif" alt="Freight Shield"></a>
+      </a>
+      <!-- <p align="center">
+        <a href="#Sizzle repo" target="https://github.com/naniitsnina/Sizzle-Restaurant">
+          <img src="https://img.shields.io/badge/github-808080?&style=for-the-badge&logo=github&logoColor=ffffff" width="47%">
+        </a>  
+        <a href="https://sizzlerestaurant.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/website-ec840c?&style=for-the-badge&logo=googlechrome&logoColor=ffffff" width="47%">
+        </a>
+      </p> -->
+    </td>
+    <td valign="top">
+      <a href="https://freightshield.csproject.org"><img src="./readmeSetup/projectTitles/freightShield.svg"></a>
+      <a target="_blank" href="https://freightshield.csproject.org">
+      <a href="https://freightshield.csproject.org"><img src="./readmeSetup//gifs/freightShield.gif" alt="Freight Shield"></a>
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://freightshield.csproject.org"><img src="./readmeSetup/projectTitles/freightShield.svg"></a>
+      <a target="_blank" href="https://freightshield.csproject.org">
+      <a href="https://freightshield.csproject.org"><img src="./readmeSetup//gifs/freightShield.gif" alt="Freight Shield"></a>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
+<!-- 
 
 <div align="center">
   <a href="https://freightshield.csproject.org"><img src="./readmeSetup//gifs/freightShield.gif" width="32%"></a>
@@ -50,15 +105,7 @@
   <a href="https://todolist.csproject.org"><img src="./readmeSetup/projectTitles/todoList.svg" width="32%"></a>
 </div>
 
-
-
-
-
 <br>
-
-
-
-
 
 <div align="center">
   <a href="https://www.skcda.ca/"><img src="./readmeSetup//gifs/SKCDA.gif" width="32%"></a>
@@ -72,15 +119,7 @@
   <a href="https://purchasemania.csproject.org/"><img src="./readmeSetup/projectTitles/purchaseMania.svg" width="32%"></a>
 </div>
 
-
-
-
-
 <br>
-
-
-
-
 
 <div align="center">
   <a href="https://github.com/BinaryQuBit/Snack-Distributing-Robot"><img src="./readmeSetup//gifs/snackRobot.gif" width="32%"></a>
@@ -94,15 +133,7 @@
   <a href="https://www.figma.com/proto/JC1gzYjyrpfvc6T0iv3nbd/Untitled?node-id=82-35&starting-point-node-id=82%3A35&scaling=scale-down&t=Ixgn5QeRQnMCsHfy-1"><img src="./readmeSetup/projectTitles/discoverWarzone.svg" width="32%"></a>
 </div>
 
-
-
-
-
 <br>
-
-
-
-
 
 <div align="center">
   <a href="#"><img src="./readmeSetup//gifs/suggestMeMusic.gif" width="32%"></a>
@@ -112,13 +143,8 @@
 <div align="center">
   <a href="#"><img src="./readmeSetup/projectTitles/suggestMeMusic.svg" width="32%"></a>
   <a href="https://amanpadda.uk.to"><img src="./readmeSetup/projectTitles//virtualResume.svg" width="32%"></a>
-</div>
+</div> -->
 
-
-
-
-
-<br>
 <br>
 
 <div style="width: 100%;">

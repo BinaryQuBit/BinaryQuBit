@@ -39,7 +39,7 @@
       </a>
       <p align="center">
         <a href="https://github.com/BinaryQuBit/Freight-Shield">
-          <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/2df3f646d394ca8256227308902a066dbeb65fce/Badges/github.svg?token=AVUCR7FN34UIVWYYP2FAHLLGJJIO4" width="45%">
+          <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/2df3f646d394ca8256227308902a066dbeb65fce/Badges/github.svg" width="45%">
         </a>  
         <a href="https://sizzlerestaurant.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/website-ec840c?&style=for-the-badge&logo=googlechrome&logoColor=ffffff" width="45%">

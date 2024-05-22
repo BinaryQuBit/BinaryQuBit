@@ -244,7 +244,7 @@
     <a href="#"><img src="readmeSetup/techStack.svg" style="width: 100%"></a>
 </div>
 <h3 align = "center">👩‍💻 Languages</h3>
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center">
       <a href="#">
@@ -306,7 +306,7 @@
 <h2></h2>
 
 <h3 align="center">🤖 Artificial Intelligence & Machine Learning Libraries</h3>
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center">
       <a href="#">
@@ -345,7 +345,7 @@
 <h2></h2>
 
 <h3 align="center">☁ Cloud Platforms</h3>
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center">
       <a href="#">
@@ -383,7 +383,7 @@
 <h2></h2>
 
 <h3 align="center">🚀 Development Tools & Environments</h3>
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center">
       <a href="#">
@@ -433,7 +433,7 @@
 <h2></h2>
 
 <h3 align="center">💻 Web Development Frameworks & Libraries</h3>
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center">
       <a href="#">
@@ -531,7 +531,7 @@
 <h2></h2>
 
 <h3 align="center">⚡ Databases</h3>
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center">
       <a href="#">
@@ -557,7 +557,7 @@
 <h2></h2>
 
 <h3 align="center">🌐 Web Servers</h3>
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center">
       <a href="#">
@@ -583,7 +583,7 @@
 <h2></h2>
 
 <h3 align="center">💡 3D Modeling and Animation Softwares</h3>
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center">
       <a href="#">
@@ -621,7 +621,7 @@
 <h2></h2>
 
 <h3 align="center">⚙️ Hardware and Microcontroller Boards</h3>
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center">
       <a href="#">
@@ -671,7 +671,7 @@
 
 <div>
   <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=none" alt="Jokes Card" width="45%"/> &nbsp;
-  <img src = "./homerBye.gif" alt = "Bye" width="30%" align="right">
+  <img src = "https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/homerBye.gif?raw=true" alt = "Bye" width="30%" align="right">
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=binaryqubit&icon=0&color=6)](https://visitcount.itsvg.in)

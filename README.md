@@ -434,7 +434,7 @@
 
 <h3 align="center">💻 Web Development Frameworks & Libraries</h3>
 <table align="center" width="100%">
-  <tr>
+  <tr width="100%">
     <td align="center">
       <a href="#">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webDevelopmentLibraries/middle/jwt.svg">

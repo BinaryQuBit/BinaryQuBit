@@ -1,12 +1,12 @@
 <div style="width: 100%;">
-    <a href="#"><img src="readmeSetup/welcome.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/welcomeScreens/binaryQuBit.svg" style="width: 100%"></a>
 </div>
 
 <br>
 <br>
 
 <div style="width: 100%;">
-    <a href="#"><img src="readmeSetup/about.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/headers/about.svg" style="width: 100%"></a>
 </div>
 
 <p>
@@ -28,7 +28,7 @@
 <br>
 
 <div style="width: 100%;">
-    <a href="#"><img src="readmeSetup/projects.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/headers/projects.svg" style="width: 100%"></a>
 </div>
 
 <table>
@@ -241,7 +241,7 @@
 </table>
 
 <div style="width: 100%;">
-    <a href="#"><img src="readmeSetup/techStack.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/headers/techStack.svg" style="width: 100%"></a>
 </div>
 <h3 align = "center">👩‍💻 Languages</h3>
 <table align="center" width="100%">
@@ -647,7 +647,7 @@
 <br>
 
 <div style="width: 100%;">
-    <a href="#"><img src="readmeSetup/githubTrophies.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/headers/githubTrophies.svg" style="width: 100%"></a>
 </div>
 
 <br>
@@ -657,7 +657,7 @@
 <br>
 
 <div style="width: 100%;">
-    <a href="#"><img src="readmeSetup/githubStatistics.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/headers/githubStatistics.svg" style="width: 100%"></a>
 </div>
 
 <div align="center">

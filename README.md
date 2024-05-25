@@ -679,4 +679,12 @@
   <img src = "https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/homerBye.gif?raw=true" alt = "Bye" width="30%" align="right">
 </div>
 
+<br>
+
+<div align="center">
+    
 [![](https://visitcount.itsvg.in/api?id=binaryqubit&icon=0&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
+<br>

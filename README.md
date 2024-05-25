@@ -681,7 +681,7 @@
 
 <br>
 
-<div align="center">
+<div>
     
 [![](https://visitcount.itsvg.in/api?id=binaryqubit&icon=0&color=6)](https://visitcount.itsvg.in)
 

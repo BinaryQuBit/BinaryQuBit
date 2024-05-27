@@ -1,7 +1,7 @@
 <div style="width: 100%">
     <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/welcomeScreens/binaryQuBit.svg" style="width: 100%"></a>
 </div>
-
+ 
 <br>
 <br>
 

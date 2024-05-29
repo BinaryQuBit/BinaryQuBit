@@ -212,19 +212,19 @@
   </tr>
   <tr>
     <td>
-      <a href="https://www.suggestmemusic.csproject.org">
+      <a href="https://suggestmemusic.csproject.org">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/77db7384fa13216b73aef835cf3ad54e2cc12f97/projectTitles/suggestMeMusic.svg">
         <br>
         <br>
       </a>
-      <a href="https://www.suggestmemusic.csproject.org">
+      <a href="https://suggestmemusic.csproject.org">
         <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/suggestMeMusic.gif?raw=true">
       </a>
       <div align="center">
         <a href="https://github.com/BinaryQuBit/SuggestMe-Music">
           <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/981edff4cfbe9b40c291cd88d269fc41a84900d3/badges/sidebyside/github.svg" width="30%">
         </a>
-        <a href="https://www.suggestmemusic.csproject.org">
+        <a href="https://suggestmemusic.csproject.org">
           <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/981edff4cfbe9b40c291cd88d269fc41a84900d3/badges/sidebyside/preview.svg" width="30%">
         </a>
       </div>

@@ -230,8 +230,7 @@
       </div>
       <br>
     </td>
-  </tr>
-      <td>
+    <td>
       <a href="https://www.youtube.com/watch?v=F5vOHMdCtMQ">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/247d3bd1f00e4a64d219799ede84e382ee19cbd7/projectTitles/calendarImplementation.svg">
         <br>
@@ -250,6 +249,7 @@
       </div>
       <br>
     </td>
+  </tr>
 </table>
 
 <br>

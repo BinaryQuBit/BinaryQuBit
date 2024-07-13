@@ -115,44 +115,44 @@
       </div>
       <br>
     </td>
-    <!-- <td> -->
-      <!-- <a href="https://lisaportfolio.csproject.org">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8e0c82c21604c112c5786769282eafa86a7a76b4/projectTitles/lisaPortfolio.svg">
+    <td>
+      <a href="https://amanpadda.uk.to/">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/projectTitles/virtualResume.svg">
         <br>
         <br>
       </a>
-      <a href="https://lisaportfolio.csproject.org">
-        <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/lisaPortfolio.gif?raw=true">
+      <a href="https://amanpadda.uk.to/">
+        <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/virtualResume.gif?raw=true">
       </a>
       <div align="center">
-        <a href="https://github.com/BinaryQuBit/Lisa-Portfolio">
+        <a href="https://github.com/BinaryQuBit/virtualResume">
           <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/981edff4cfbe9b40c291cd88d269fc41a84900d3/badges/sidebyside/github.svg" width="30%">
         </a>
-        <a href="https://lisaportfolio.csproject.org">
+        <a href="https://amanpadda.uk.to/">
           <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/981edff4cfbe9b40c291cd88d269fc41a84900d3/badges/sidebyside/preview.svg" width="30%">
         </a>
       </div>
       <br>
     </td>
     <td>
-      <a href="https://purchasemania.csproject.org/">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8e0c82c21604c112c5786769282eafa86a7a76b4/projectTitles/purchaseMania.svg">
+      <a href="https://suggestmemusic.csproject.org">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/77db7384fa13216b73aef835cf3ad54e2cc12f97/projectTitles/suggestMeMusic.svg">
         <br>
         <br>
       </a>
-      <a href="https://purchasemania.csproject.org/">
-        <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/purchaseMania.gif?raw=true">
+      <a href="https://suggestmemusic.csproject.org">
+        <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/suggestMeMusic.gif?raw=true">
       </a>
       <div align="center">
-        <a href="https://github.com/BinaryQuBit/Purchase-Mania">
+        <a href="https://github.com/BinaryQuBit/SuggestMe-Music">
           <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/981edff4cfbe9b40c291cd88d269fc41a84900d3/badges/sidebyside/github.svg" width="30%">
         </a>
-        <a href="https://purchasemania.csproject.org/">
+        <a href="https://suggestmemusic.csproject.org">
           <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/981edff4cfbe9b40c291cd88d269fc41a84900d3/badges/sidebyside/preview.svg" width="30%">
         </a>
       </div>
       <br>
-    </td> -->
+    </td>
   </tr>
   <tr>
     <td>
@@ -215,25 +215,6 @@
   </tr>
   <tr>
     <td>
-      <a href="https://suggestmemusic.csproject.org">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/77db7384fa13216b73aef835cf3ad54e2cc12f97/projectTitles/suggestMeMusic.svg">
-        <br>
-        <br>
-      </a>
-      <a href="https://suggestmemusic.csproject.org">
-        <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/suggestMeMusic.gif?raw=true">
-      </a>
-      <div align="center">
-        <a href="https://github.com/BinaryQuBit/SuggestMe-Music">
-          <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/981edff4cfbe9b40c291cd88d269fc41a84900d3/badges/sidebyside/github.svg" width="30%">
-        </a>
-        <a href="https://suggestmemusic.csproject.org">
-          <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/981edff4cfbe9b40c291cd88d269fc41a84900d3/badges/sidebyside/preview.svg" width="30%">
-        </a>
-      </div>
-      <br>
-    </td>
-    <td>
       <a href="https://github.com/BinaryQuBit/Battleship-Game">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/projectTitles/battleshipGame.svg">
         <br>
@@ -249,28 +230,8 @@
       </div>
       <br>
     </td>
-    <td>
-      <a href="https://amanpadda.uk.to/">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/projectTitles/virtualResume.svg">
-        <br>
-        <br>
-      </a>
-      <a href="https://amanpadda.uk.to/">
-        <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/virtualResume.gif?raw=true">
-      </a>
-      <div align="center">
-        <a href="https://github.com/BinaryQuBit/virtualResume">
-          <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/981edff4cfbe9b40c291cd88d269fc41a84900d3/badges/sidebyside/github.svg" width="30%">
-        </a>
-        <a href="https://amanpadda.uk.to/">
-          <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/981edff4cfbe9b40c291cd88d269fc41a84900d3/badges/sidebyside/preview.svg" width="30%">
-        </a>
-      </div>
-      <br>
-    </td>
   </tr>
-  <tr>
-    <td>
+      <td>
       <a href="https://www.youtube.com/watch?v=F5vOHMdCtMQ">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/247d3bd1f00e4a64d219799ede84e382ee19cbd7/projectTitles/calendarImplementation.svg">
         <br>
@@ -289,7 +250,6 @@
       </div>
       <br>
     </td>
-  </tr>
 </table>
 
 <br>

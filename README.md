@@ -115,8 +115,8 @@
       </div>
       <br>
     </td>
-    <td>
-      <a href="https://lisaportfolio.csproject.org">
+    <!-- <td> -->
+      <!-- <a href="https://lisaportfolio.csproject.org">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8e0c82c21604c112c5786769282eafa86a7a76b4/projectTitles/lisaPortfolio.svg">
         <br>
         <br>
@@ -152,7 +152,7 @@
         </a>
       </div>
       <br>
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td>
